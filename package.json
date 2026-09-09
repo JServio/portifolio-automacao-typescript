@@ -1,0 +1,28 @@
+{
+  "name": "portifolio-automacao-typescript",
+  "version": "1.0.0",
+  "description": "Aulas praticas de automação com playwringht com typescript",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JServio/portifolio-automacao-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JServio/portifolio-automacao-typescript/issues"
+  },
+  "homepage": "https://github.com/JServio/portifolio-automacao-typescript#readme",
+  "dependencies": {
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}
