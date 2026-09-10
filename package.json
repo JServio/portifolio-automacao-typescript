@@ -24,5 +24,8 @@
   "dependencies": {
     "tsx": "^4.23.13",
     "typescript": "^7.0.2"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.0"
   }
 }
