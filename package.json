@@ -6,9 +6,7 @@
   "directories": {
     "test": "tests"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JServio/portifolio-automacao-typescript.git"
@@ -26,6 +24,8 @@
     "typescript": "^7.0.2"
   },
   "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4",
     "vitest": "^5.0.0"
   }
 }
